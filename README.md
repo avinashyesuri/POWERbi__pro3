@@ -4,7 +4,7 @@
 
 Drill through filtering is the process of navigating from one page (source) to another (destination) and carrying some filters along.
 The second report page (destination) then filters its results based on the selected value, allowing users to explore and analyze data.
-It allows you to explore data in more detail and gain insights that might not be possible at a high level.
+It allows you to explore data in more detail and gain insights that might not be possible at a high level.  If we have categories like men, women, children then categorize the values related to this in destination file .
 
 
 ## DRILL THROUGH DATASET

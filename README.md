@@ -16,5 +16,4 @@ https://drive.google.com/file/d/1RDAyMKXYV5vdBzBXc79VVA4KkdEYZIgB/view?usp=shari
 ![Capture-po6](https://github.com/user-attachments/assets/803fa2af-f3d4-41b6-95ac-e96bb7c2d926)
 https://drive.google.com/file/d/1iPFGNRoGGrbNTZv6sfx0fV3Rm606_Fq9/view?usp=sharing
 
-
 drill trhogh
